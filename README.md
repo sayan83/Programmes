@@ -1,2 +1,2 @@
-# Programmes
-add new programmes to this repo
+# Programs
+add new programs to this repo

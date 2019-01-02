@@ -1,3 +1,13 @@
+/*
+Chef is a very experienced and well-known cook. 
+He has participated in many cooking competitions in the past — so many that he does not even remember them all.
+
+One of these competitions lasted for a certain number of days. The first day of the competition was day 
+S of the week (i.e. Monday, Tuesday etc.) and the last day was day E of the week. 
+Chef remembers that the duration of the competition (the number of days between the first and last day, inclusive)
+was between L days and R days inclusive. Is it possible to uniquely determine the exact duration of the competition? 
+If so, what is this duration?
+*/
 #include <iostream>
 #include <math.h>
 using namespace std;
